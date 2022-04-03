@@ -2,7 +2,6 @@ html {
 margin:    0 auto;
 max-width: 710px;
 background-color: #232c31;  
-/* background-color:  #0A1119 */
 font-family: Montserrat;
 }
 
@@ -54,7 +53,6 @@ svg {
   margin: auto;
   display: block;
   background: #2f3d45; 
-  /* #1D2329 */
   border-radius: 10px;
   margin-bottom:20px;
 filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.25));
@@ -82,7 +80,6 @@ filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.25));
   .button {
     position: relative;
     background-color: #232c31;
-    /* background-color: #1D2329; */
     box-shadow: 0px 12px 12px rgb(0 0 0 / 8%);
     border-radius: 6px;
     width: 40px;
@@ -100,7 +97,6 @@ filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.25));
 
 .button:hover {
   background-color: #2a343a;
- /* background-color: rgba(249, 249, 249, 0.08); */
 
   
 }
@@ -167,7 +163,6 @@ filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.25));
   margin: auto;
   display: block;
   background: #2f3d45; 
- /* background: #131A22; */
   border-radius: 10px;
   margin-top: 5%;
   height: 85px;
@@ -208,7 +203,6 @@ filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.25));
 
   .badge {
     background-color: #3e4f5a70;
-    /* background-color: #252c3170; */
     width: 30px;
     height: 30px;
     border-radius: 6px;
