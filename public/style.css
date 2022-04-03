@@ -1,7 +1,8 @@
 html {
 margin:    0 auto;
 max-width: 710px;
-background-color: #232c31;  <!-- #0A1119 -->
+background-color: #232c31;  
+/* background-color:  #0A1119 */
 font-family: Montserrat;
 }
 
@@ -52,7 +53,8 @@ svg {
   max-width: 80vw;
   margin: auto;
   display: block;
-  background: #2f3d45;  <!-- #1D2329 -->
+  background: #2f3d45; 
+  /* #1D2329 */
   border-radius: 10px;
   margin-bottom:20px;
 filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.25));
@@ -162,7 +164,8 @@ filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.25));
   max-width: 93vw;
   margin: auto;
   display: block;
-  background: #131A22; 
+  background: #2f3d45; 
+ /* background: #131A22; */
   border-radius: 10px;
   margin-top: 5%;
   height: 85px;
