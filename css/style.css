@@ -148,3 +148,8 @@ margin-top: 12px;
       display: block;
 
 }
+
+@media screen and (min-width: 1000px) {
+    html {
+    max-width: 900px;
+    }
