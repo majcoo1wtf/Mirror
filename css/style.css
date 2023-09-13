@@ -125,13 +125,7 @@ width: -webkit-fill-available;
     line-height: 30px;
 }
 
-.statustext {
-    position: relative;
-    display: inline-block;
-    float: right;
-    padding: 1px 25px;
-    color: #818E9D;
-}
+
 .icon {
 margin-top: 12px;
     margin-left: auto;
