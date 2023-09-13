@@ -149,7 +149,7 @@ margin-top: 12px;
 
 }
 
-@media screen and (min-width: 710px) {
+@media screen and (min-width: 1000px) {
     html {
     max-width: 710px;
     }
