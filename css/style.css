@@ -1,6 +1,6 @@
 html {
     margin: 0 auto;
-    max-width: 710px;
+    max-width: 95%;
     background-color: #0A1119;
     font-family: Gamdom;
 }
@@ -151,7 +151,7 @@ margin-top: 12px;
 
 @media screen and (max-width: 1000px) {
     html {
-    max-width: 900px;
+    max-width: 710px;
     }
 	
 }
